@@ -9,5 +9,5 @@ You can take a closer look at the project needs by viewing the screenshots below
 
 You can view the project in its current state by following this link:
 
-
+https://www.linkedin.com/feed/update/urn:li:ugcPost:7192496322157940736/
 
