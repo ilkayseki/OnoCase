@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: CollectMachine
   m_EditorClassIdentifier: 
   machineName: ONO-001/19
-  orderCode: O-205195635
+  orderCode: O-205195644
   orderCodeIncreaseValue: 1
-  productCode: E-1088
+  productCode: E-1097
   productCodeIncreaseValue: 1
-  orderQuantityValue: 300
+  orderQuantityValue: 800
   orderQuantityMax: 800
   orderQuantityIncreaseValue: 50
   OEEValue: 10
